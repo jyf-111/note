@@ -1,6 +1,6 @@
 ### 文件管理与I/O
 
-<img src="/assets/Screen%20Shot%202019-06-08%20at%207.00.30%20PM.png" width="60%">
+<img src="./assets/Screen%20Shot%202019-06-08%20at%207.00.30%20PM.png" width="60%">
 
 
 #### 文件基本概念
@@ -75,7 +75,7 @@ FCB包括基本信息、存取控制信息和使用信息
 
 加密保护和访问控制：加密保护安全性更高，访问控制灵活性更好。访问控制需要由系统实现来保证安全性
 
-<img src="/assets/Screen%20Shot%202019-06-17%20at%205.50.15%20AM.png" width="70%">
+<img src="./assets/Screen%20Shot%202019-06-17%20at%205.50.15%20AM.png" width="70%">
 
 
 <br>
@@ -98,7 +98,7 @@ FCB包括基本信息、存取控制信息和使用信息
 
 ##### 文件系统层次结构
 
-![Screen Shot 2019-06-17 at 6.50.59 AM](/assets/Screen%20Shot%202019-06-17%20at%206.50.59%20AM.png)
+![Screen Shot 2019-06-17 at 6.50.59 AM](./assets/Screen%20Shot%202019-06-17%20at%206.50.59%20AM.png)
 
 1. 用户调用接口：给用户文件操控的接口
 2. 文件目录系统：管理文件目录
@@ -139,9 +139,9 @@ FCB包括基本信息、存取控制信息和使用信息
 
 每个文件设置一个索引块，是一个磁盘块地址的数组
 
-![Screen Shot 2019-06-17 at 7.17.02 AM](/assets/Screen%20Shot%202019-06-17%20at%207.17.02%20AM.png)
+![Screen Shot 2019-06-17 at 7.17.02 AM](./assets/Screen%20Shot%202019-06-17%20at%207.17.02%20AM.png)
 
-![Screen Shot 2019-06-17 at 7.33.44 AM](/assets/Screen%20Shot%202019-06-17%20at%207.33.44%20AM.png)
+![Screen Shot 2019-06-17 at 7.33.44 AM](./assets/Screen%20Shot%202019-06-17%20at%207.33.44%20AM.png)
 
 <br>
 
