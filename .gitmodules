@@ -1,3 +1,12 @@
 [submodule "fucking-algorithm-book"]
 	path = fucking-algorithm-book
 	url = git@github.com:shichangzhi/fucking-algorithm-book
+[submodule "Cplusplus-Concurrency-In-Practice"]
+	path = Cplusplus-Concurrency-In-Practice
+	url = https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
+[submodule "leetcode-master"]
+	path = leetcode-master
+	url = https://github.com/youngyangyang04/leetcode-master
+[submodule "qimo-review"]
+	path = qimo-review
+	url = https://github.com/1793523411/qimo-review.git
