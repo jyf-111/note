@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "5b83339c6780bfe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfb4fce00d4b955",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97eaae6acaed4c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea9ab929d2cd379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499510614c74d80d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "473162784f941e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60e4dbdf5978483d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f568e4e5c44fde8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ad2cf273bf41f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "cdfb4fce00d4b955",
+  "lastOpenFiles": [
+    "OS-Notes-master/导论.md",
+    "test.md",
+    "OS.md"
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "fucking-algorithm-book"]
+	path = fucking-algorithm-book
+	url = git@github.com:shichangzhi/fucking-algorithm-book
