@@ -7,3 +7,6 @@
 [submodule "qimo-review"]
 	path = qimo-review
 	url = https://github.com/1793523411/qimo-review.git
+[submodule "fucking-algorithm-book"]
+	path = fucking-algorithm-book
+	url = https://github.com/shichangzhi/fucking-algorithm-book.git

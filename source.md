@@ -1,5 +1,3 @@
-65人已读
-
 ———————本群致力于你们达到全能——————
 https://note.youdao.com/s/SSdkdYQE : java基础笔记
 https://note.youdao.com/s/GCkhfFku : C++基础笔记
@@ -16,14 +14,3 @@ gitee 和 github 上有个项目 ineo6/hosts  可以解决 反正我是这样解
 github.do[doge]
 
 https://cui-jiacai.gitbook.io/c++-stl-tutorial/
-
-@𐂂：亮度4
-对比度-15
-饱和度17
-色温4
-色调10
-光感-27
-
-
-
-![image-20220328161033840](C:\Users\jyf\AppData\Roaming\Typora\typora-user-images\image-20220328161033840.png)
