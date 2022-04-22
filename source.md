@@ -14,3 +14,12 @@ gitee 和 github 上有个项目 ineo6/hosts  可以解决 反正我是这样解
 github.do[doge]
 
 https://cui-jiacai.gitbook.io/c++-stl-tutorial/
+
+<人月神话>
+
+win10专业版安装密钥  BGNXX-C4YVW-BQ8BQ-BFB2M-FGDGT 
+家庭中文安装密钥YY7BN-74FC3-CPY3V-X4W77-YY6F9
+10家庭官方安装密钥NMHJ2-2G3JT-KCX3T-9799J-W44C6
+ win10家庭安装密钥KN63M-YQJV8-8H2HG-C2K6F-YTDDV
+10教育安装密钥：CNYVP-34XHD-C76JT-W6BDD-9D7YY
+10官方单语言NYQ99-66897-PQG34-2B9DQ-MDWV3

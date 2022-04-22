@@ -10,3 +10,9 @@
 [submodule "fucking-algorithm-book"]
 	path = fucking-algorithm-book
 	url = https://github.com/shichangzhi/fucking-algorithm-book.git
+[submodule "English-level-up-tips"]
+	path = English-level-up-tips
+	url = https://github.com/byoungd/English-level-up-tips.git
+[submodule "ENGLISH"]
+	path = ENGLISH
+	url = https://github.com/YJango/ENGLISH.git
