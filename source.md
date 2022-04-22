@@ -23,3 +23,15 @@ win10专业版安装密钥  BGNXX-C4YVW-BQ8BQ-BFB2M-FGDGT
  win10家庭安装密钥KN63M-YQJV8-8H2HG-C2K6F-YTDDV
 10教育安装密钥：CNYVP-34XHD-C76JT-W6BDD-9D7YY
 10官方单语言NYQ99-66897-PQG34-2B9DQ-MDWV3
+
+[置顶]冲就完了[脱单doge]：https://javaguide.cn/
+
+http://sudl.moeweb.site/
+
+极下百度网盘不限速下载  直连秒传下载
+没有什么排队等待下载做任务乱七八糟的套路
+浏览器打开  jixia.icu
+支持pc ios 安卓mac
+支持批量下载
+速度取决于你的网速
+免费的干嘛不使用[脱单doge]
