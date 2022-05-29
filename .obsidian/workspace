@@ -7,99 +7,91 @@
         "id": "79de90d17078f4bc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "todo.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9a92c2ffec904805",
-    "type": "split",
+    "id": "7767fc278227a6f9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "020372b9da7e06f0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4f9ae38f912d1ba",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "f246b79aba33c56b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "6b1bdf54bee8ce51",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b6937b0a97c68f6b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "0a21b824a00307f0",
-    "type": "split",
+    "id": "24817681f9585232",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3f99d14af253e399",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6dc46f2ac40c985c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "779fb35bf33619b4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "f25cd55804141cc8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "todo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "2e61b81f5a272be4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "todo.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "79de90d17078f4bc",
   "lastOpenFiles": [
-    "未命名.md",
     "todo.md",
-    "2022-05-29.md",
     "source.md",
-    "test.md",
-    "C++.md",
-    "concurrent.md",
     "krpc.md",
+    "C++.md",
+    "未命名.md",
+    "2022-05-29.md",
+    "test.md",
+    "concurrent.md",
     "linux.md",
     "other.md"
   ]
