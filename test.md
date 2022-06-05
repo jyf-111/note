@@ -1,3 +1,0 @@
-```C++
-#include<iostream>
-```
