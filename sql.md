@@ -1,7 +1,7 @@
 ## win下中文问题 
 设置mysql默认字符集utf-8
 代码中设置终端 system("chcp 65001")
-
+mingw gcc g++ 默认UTF-8无问题
 cmake-msvc 默认 utf-BOM (UNICODE)
 除非cmake设置  
 add_compile_options("$<$<C_COMPILER_ID:MSVC>:/utf-8>")  
@@ -15,3 +15,9 @@ add_compile_options("$<$<CXX_COMPILER_ID:MSVC>:/utf-8>")
 
 ## null值无法读取
 先mysql_fetch_row判断null
+
+## mysql cmake c 需要 
+* libcrypto-1_1-x64.dll
+* libmysql.dll 
+* libmysql.lib 
+* libssl-1_1-x64.dll
