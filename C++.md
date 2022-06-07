@@ -17,8 +17,3 @@ __TIME__
 __FUNC__
 __FUNCTION__
 ```
-mysql cmake c 需要 
-* libcrypto-1_1-x64.dll
-* libmysql.dll 
-* libmysql.lib 
-* libssl-1_1-x64.dll
