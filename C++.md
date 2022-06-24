@@ -17,3 +17,8 @@ __TIME__
 __FUNC__
 __FUNCTION__
 ```
+
+## 列表初始化数组用大括号
+
+vector.clear不释放内存
+得swap
