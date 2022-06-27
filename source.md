@@ -26,6 +26,7 @@ http://sudl.moeweb.site/
 ##software
 - CFosSpeed 网络加速
 - Process Lasso 进程平衡
+- spacesniffer 空间大小显示
 - f.lux 护眼
 - Drawboard PDF
 - PotPlayer 视频播放
