@@ -3,5 +3,3 @@
 ## yolo 需要cuda.dll
 ## 从cv::fourcc编码问题 cv::CAP_OPENCV_MJPEG
 
-视频保存本地的button
-数据库校对
