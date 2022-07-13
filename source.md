@@ -1,7 +1,9 @@
+- windows
 开了v2rayN后别忘了给powshell开代理  
 $env:HTTP_PROXY="127.0.0.1:10809" 
-
 $env:HTTPS_PROXY="127.0.0.1:10809"  
+- linux
+ALL_PROXY="ip:10809"
 
 ———————本群致力于你们达到全能——————
 https://note.youdao.com/s/SSdkdYQE : java基础笔记
@@ -15,7 +17,7 @@ https://note.youdao.com/s/VTmB0i7G : mysql数据库笔记
 
 gitee 和 github 上有个项目 ineo6/hosts  可以解决 反正我是这样解决的
 
-github.do[doge]
+hub.fastgit.xyz
 
 https://cui-jiacai.gitbook.io/c++-stl-tutorial/
 
@@ -32,4 +34,6 @@ http://sudl.moeweb.site/
 - PotPlayer 视频播放
 - v2raya
 - spacedrive lazygit gobalvim
-- frp 内网穿透
+- frp coplar 内网穿透
+- DeskPins 桌面固定
+- 画图 draw.io
